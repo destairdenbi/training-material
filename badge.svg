@@ -58,6 +58,14 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     y="-74.61721"
+     x="14.547747"
+     height="13.096207"
+     width="133.36749"
+     id="rect4927"
+     style="opacity:1;fill:#00adef;fill-opacity:1;stroke-width:0.32999337"
+     transform="rotate(45)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -85,25 +93,20 @@
        y="57.037971"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:0.5;font-family:Caladea;-inkscape-font-specification:Caladea;text-align:center;text-anchor:middle;stroke-width:0.26458332"
        id="tspan3733">University of Rostock, Germany</tspan></text>
-  <path
-     style="fill:#00adef;fill-opacity:1;stroke-width:0.15070692"
-     d="m 85.155357,-11.500183 8.728524,-8.431158 24.613359,23.7748188 24.61333,23.7748212 -8.7285,8.431157 -8.72853,8.431159 L 101.04019,20.705797 76.426835,-3.0690243 Z"
-     id="path4573"
-     inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-     x="72.250854"
+     x="72.250847"
      y="-66.904175"
      id="text4577"
      transform="rotate(45)"><tspan
        sodipodi:role="line"
        id="tspan4575"
-       x="72.250854"
+       x="72.250847"
        y="-66.904175"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Caladea;-inkscape-font-specification:'Caladea Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Participant</tspan></text>
   <image
-     y="-8.410305"
+     y="-6.8228049"
      x="9.8746834"
      id="image4784"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0oAAAJTCAMAAAABqhY4AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
@@ -255,7 +258,7 @@ MDDZVsxOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAABJRU5ErkJggg==
      y="64.097466" />
   <image
      y="2.6458333"
-     x="2.6458333"
+     x="2.1166666"
      id="image4922"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9oAAAIRCAYAAAAFlrYGAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
 bWFnZVJlYWR5ccllPAAABAxpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
