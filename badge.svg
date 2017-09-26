@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="314.86606"
-     inkscape:cy="161.33155"
+     inkscape:zoom="1.979899"
+     inkscape:cx="473.46827"
+     inkscape:cy="154.34833"
      inkscape:document-units="mm"
      inkscape:current-layer="svg32"
      showgrid="false"
@@ -38,7 +38,7 @@
      inkscape:showpageshadow="false"
      scale-x="1"
      inkscape:window-width="2558"
-     inkscape:window-height="1415"
+     inkscape:window-height="1216"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0" />
@@ -81,4 +81,21 @@
        y="41.162956"
        style="font-size:4.23333311px;line-height:0.5;text-align:center;text-anchor:middle;stroke-width:0.26458332"
        id="tspan3733">University of Rostock, Germany</tspan></text>
+  <path
+     style="fill:#00adef;fill-opacity:1;stroke-width:0.15070692"
+     d="m 85.155357,-11.500183 8.728524,-8.431158 24.613359,23.7748188 24.61333,23.7748212 -8.7285,8.431157 -8.72853,8.431159 L 101.04019,20.705797 76.426835,-3.0690243 Z"
+     id="path4573"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="71.601944"
+     y="-66.659378"
+     id="text4577"
+     transform="rotate(45)"><tspan
+       sodipodi:role="line"
+       id="tspan4575"
+       x="71.601944"
+       y="-66.659378"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">Participant</tspan></text>
 </svg>
