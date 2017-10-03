@@ -1,0 +1,7 @@
+### Teaching URLs
+
+ftp://ftp.ensembl.org/pub/grch37/current/gtf/homo_sapiens/Homo_sapiens.GRCh37.87.chr.gtf.gz
+ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/bacteria/Bacillus_subtilis/reference/GCA_000009045.1_ASM904v1/GCA_000009045.1_ASM904v1_genomic.fna.gz
+ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/bacteria/Bacillus_subtilis/reference/GCA_000009045.1_ASM904v1/md5checksums.txt
+
+https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh

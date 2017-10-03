@@ -1,0 +1,48 @@
+### Grep script
+#! /usr/bin/bash
+echo "Start to grep"
+sleep 2
+variable="/home/$USER/hg19_il2.gtf"
+grep –i “il2ra” $variable | cut -f 4 | sort -k 2 | wc
+
+
+### Docker setup
+docker pull debian:latest
+docker run -i -t debian:latest bash
+apt-get update
+apt-get install -y curl wget bzip2
+wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
+bash Miniconda2-latest-Linux-x86_64.sh -b -p conda
+source conda/bin/activate
+conda install -c bioconda samtools
+conda install git
+git clone https://github.com/galaxyproject/galaxy.git
+cd galaxy
+git checkout v17.05
+./run.sh
+
+
+###  Connect to running container
+docker ps
+docker exec -it <ID> bash
+source conda/bin/activate
+
+
+### Commit new image to local repository
+docker stop <ID>
+docker commit <ID> debian-galaxy:17.05
+
+
+### Run script
+#!/usr/bin/env bash
+source /conda/bin/activate
+/galaxy/run.sh
+
+
+### Docker run command from local repository
+docker run -d --net host -v dockershare:/data debian-galaxy:17.05 /data/start.sh
+
+
+### Save and load an image
+docker save -o debian-galaxy-17.05.tar debian-galaxy:17.05
+docker load -i debian-galaxy:17.05
