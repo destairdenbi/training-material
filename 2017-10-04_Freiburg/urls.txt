@@ -5,3 +5,5 @@ ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/bacteria/Bacillus_subtilis/reference/
 ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/bacteria/Bacillus_subtilis/reference/GCA_000009045.1_ASM904v1/md5checksums.txt
 
 https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
+
+https://zenodo.org/record/61771#.WdPp4Wi0NPZ
