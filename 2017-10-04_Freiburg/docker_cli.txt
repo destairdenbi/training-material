@@ -3,7 +3,7 @@
 echo "Start to grep"
 sleep 2
 variable="/home/$USER/hg19_il2.gtf"
-grep –i “il2ra” $variable | cut -f 4 | sort -k 2 | wc
+grep –i “il2ra” $variable | cut -f 4 | sort | wc
 
 
 ### Docker setup
@@ -34,13 +34,17 @@ docker commit <ID> debian-galaxy:17.05
 
 
 ### Run script
+mkdir dockershare
+gedit dockershare/start.sh
+chmod 777 dockershare/start.sh
+
 #!/usr/bin/env bash
 source /conda/bin/activate
 /galaxy/run.sh
 
 
 ### Docker run command from local repository
-docker run -d --net host -v dockershare:/data debian-galaxy:17.05 /data/start.sh
+docker run -d --net host -v $PWD/dockershare:/data debian-galaxy:17.05 /data/start.sh
 
 
 ### Save and load an image
