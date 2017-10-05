@@ -1,0 +1,5 @@
+wget http://data.broadinstitute.org/igv/projects/downloads/2.3/IGV_2.3.98.zip
+
+unzip IGV_2.3.98.zip
+cd IGV_2.3.98
+./igv.sh
