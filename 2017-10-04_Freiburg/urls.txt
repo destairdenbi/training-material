@@ -9,3 +9,6 @@ https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh
 https://zenodo.org/record/61771#.WdPp4Wi0NPZ
 
 https://usegalaxy.org/u/mwolfien/h/casymworkshop
+
+visualization tutorial:
+    https://zenodo.org/record/1001880/files/CuffDiff_SQLite_database.sqlite
