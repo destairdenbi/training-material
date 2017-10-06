@@ -1,5 +1,7 @@
-### Teaching URLs
+### Evaluation URL
+https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000085
 
+### Teaching URLs
 ftp://ftp.ensembl.org/pub/grch37/current/gtf/homo_sapiens/Homo_sapiens.GRCh37.87.chr.gtf.gz
 ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/bacteria/Bacillus_subtilis/reference/GCA_000009045.1_ASM904v1/GCA_000009045.1_ASM904v1_genomic.fna.gz
 ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/bacteria/Bacillus_subtilis/reference/GCA_000009045.1_ASM904v1/md5checksums.txt
@@ -10,5 +12,5 @@ https://zenodo.org/record/61771#.WdPp4Wi0NPZ
 
 https://usegalaxy.org/u/mwolfien/h/casymworkshop
 
-visualization tutorial:
+### Visualization tutorial:
     https://zenodo.org/record/1001880/files/CuffDiff_SQLite_database.sqlite
