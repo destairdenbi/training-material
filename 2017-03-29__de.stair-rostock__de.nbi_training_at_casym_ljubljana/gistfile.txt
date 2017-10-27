@@ -1,0 +1,23 @@
+---
+tags:
+title: The 3rd SysBioMed hands-on tutorial: Systems Medicine Approaches in Personalized Medicine
+starts: 2017-03-29
+ends: 2017-04-01
+organiser:
+  name: Tanja Cvitanovic
+  email:
+location: Zaloska 4, SI-1000 Ljubljana, Slovenia
+---
+
+The 3rd SysBioMed hands-on tutorial: Systems Medicine Approaches in Personalized Medicine, March/April 2017, registration is closed!
+
+The tutorial will provide a basic overview of research methodology, bioinformatic tools and modelling, and their implementation in Systems Medicine. The hands-on approaches will train you how to apply these principles to your own work and studies while the lectures will provide an insight into the Systems Medicine Success Stories.
+
+We encourage applications by everyone with a basic knowledge in biomedicine or bioinformatics (undergraduate, graduate and postdoctoral students).
+The number of participants is limited to 20 on the "first come, first serve" basis.
+The certificates of ECTS credits will be provided upon the final examination.
+
+The participation is free of charge, however, attendants are required to bring their own computers.
+The official language of CASyM winter school is English.
+
+See announcement <a href="http://cfgbc.mf.uni-lj.si/events/courses/2017winterschool/default.html" target="_blank">here</a>.
