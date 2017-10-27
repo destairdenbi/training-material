@@ -1,0 +1,10 @@
+---
+tags:
+title: support training offered by de.STAIR Rostock to young scientists approaching the Galaxy framework for data analysis applications
+starts: 2017-09-29
+ends: 2017-09-29
+organiser:
+  name: Markus Wolfien
+  email: markus.wolfien@uni-rostock.de
+location: 18196 Dummerstorf
+---
