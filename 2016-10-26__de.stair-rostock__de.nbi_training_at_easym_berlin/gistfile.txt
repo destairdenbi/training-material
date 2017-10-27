@@ -1,0 +1,22 @@
+---
+tags:
+title: 1st Conference of the European Association of Systems Medicine
+starts: 2016-10-26
+ends: 2016-10-28
+organiser:
+  name: Walter Kolch
+  email: info.easym@gmail.com
+location: Kaiserin Friedrich Haus, Robert-Koch-Platz 7, 10115 Berlin
+---
+
+1st Conference of the European Association of Systems Medicine, October 2016, registration is closed!
+
+The Scientific Committee of the 1st EASyM conference welcomes abstract submissions for poster and oral presentations in the following categories:
+- Tackling inflammation across multiple diseases via Systems Medicine
+- Clinical implementation of Systems Medicine
+- Modelling, Computation and Handling of Data in Health Research
+- Doctor and Patient involvement in the era of personalised medicine
+- Systems metabolomics and its relation to disease
+- Other personalised medicine topic
+
+See announcement <a href="https://www.easym.eu/program" target="_blank">here</a>.
