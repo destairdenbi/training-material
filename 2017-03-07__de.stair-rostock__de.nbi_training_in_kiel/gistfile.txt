@@ -1,0 +1,16 @@
+---
+tags:
+title: Introduction to RNA-Seq data analysis with Galaxy
+starts: 2017-03-07
+ends: 2017-03-07
+organiser:
+  name: Markus Wolfien
+  email: markus.wolfien@uni-rostock.de
+location: Am Botanischen Garten 1-9, 24118 Kiel
+---
+
+RNA-Sequencing (RNA-Seq) has become a widely used approach to study quantitative and qualitative aspects of transcriptome data. The variety of RNA-Seq protocols, experimental study designs and the obtained data processing strategies greatly affect downstream and comparative analyses. Unless the low entrance barriers and easy-to-use experimental protocols, the challenge of proper, transparent and reproducible data analyses are still a bottleneck. With respect to the number of data analysis steps, the complexity of decisions on tool selection is increasing likewise.
+
+In this training, we will give an introduction to the user-friendly and openly available Galaxy framework (https://usegalaxy.org) for scientific data analyses. We will (i) teach introductory methods for the first data exploration and quality control of NGS datasets, (ii) show concepts for genome alignment and data visualization of the subsequent results and (iii) investigate a showcase project that involves the analysis of clinical NGS expression data.
+
+See announcement <a href="http://www.denbi.de/22-training-cat/training-courses/469-introduction-to-rna-seq-data-analysis-with-galaxy" target="_blank">here</a>.
