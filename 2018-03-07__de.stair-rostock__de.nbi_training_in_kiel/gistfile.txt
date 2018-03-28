@@ -1,8 +1,8 @@
 ---
 tags:
 title: Introduction to RNA-Seq data analysis with Galaxy
-starts: 2017-03-07
-ends: 2017-03-07
+starts: 2018-03-07
+ends: 2018-03-07
 organiser:
   name: Markus Wolfien
   email: markus.wolfien@uni-rostock.de
