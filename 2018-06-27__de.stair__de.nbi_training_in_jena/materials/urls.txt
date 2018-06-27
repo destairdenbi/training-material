@@ -1,1 +1,2 @@
 Galaxy Training Network material: https://galaxyproject.github.io/training-material/
+Galaxy Freiburg instance: galaxy.uni-freiburg.de
