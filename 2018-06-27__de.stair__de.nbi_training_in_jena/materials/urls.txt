@@ -1,0 +1,1 @@
+Galaxy Training Network material: https://galaxyproject.github.io/training-material/
