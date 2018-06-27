@@ -1,2 +1,16 @@
 Galaxy Training Network material: https://galaxyproject.github.io/training-material/
 Galaxy Freiburg instance: galaxy.uni-freiburg.de
+
+
+RNA-Seq sample data: https://usegalaxy.eu/u/mwolfien/h/rna-seq-training-jena
+DisGeNET: http://www.disgenet.org/
+David: https://david.ncifcrf.gov/list.jsp
+Enrichr: http://amp.pharm.mssm.edu/Enrichr/
+miRCancer db: http://mircancer.ecu.edu/index.jsp
+TriplexRNA database: https://www.sbi.uni-rostock.de/triplexrna/
+
+
+
+
+
+
