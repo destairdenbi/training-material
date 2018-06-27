@@ -5,7 +5,8 @@ This directory contains all badges, agendas, flyers, and sharable documents for 
 
 # Docker installation
 ## Windows
-docs.docker.com/toolbox/toolbox_install_windows
+docs.docker.com/toolbox/toolbox_install_windows (Legacy)
+https://store.docker.com/editions/community/docker-ce-desktop-windows (Windows 10 only)
 
 ## Linux
 sudo apt-get install apt-transport-https ca-certificates curl gnupg2 software-properties-common
