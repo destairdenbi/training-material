@@ -1,3 +1,5 @@
+Evaluation survey: https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000133
+
 Galaxy Training Network material: https://galaxyproject.github.io/training-material/
 Galaxy Freiburg instance: galaxy.uni-freiburg.de
 
