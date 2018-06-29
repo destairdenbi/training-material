@@ -9,7 +9,7 @@ DisGeNET: http://www.disgenet.org/
 David: https://david.ncifcrf.gov/list.jsp
 Enrichr: http://amp.pharm.mssm.edu/Enrichr/
 miRCancer db: http://mircancer.ecu.edu/index.jsp
-TriplexRNA database: https://www.sbi.uni-rostock.de/triplexrna/
+TriplexRNA database: https://triplexrna.org
 
 
 
