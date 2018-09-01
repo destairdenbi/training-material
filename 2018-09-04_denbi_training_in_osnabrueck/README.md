@@ -1,4 +1,4 @@
-### Schedule and material
+## Schedule and material
 
 #### 08:30 - 10:00
 | Time slot | Topic (material in links) | Tutor |
@@ -27,6 +27,10 @@
 | 16:45 - 17:30 | Gene set enrichment analysis (hands-on) | Markus Wolfien |
 
 
-### Useful links
+## Useful links
 - [Galaxy training material](https://galaxyproject.github.io/training-material/): a collection of tutorials developed and maintained by the worldwide Galaxy community
 - [QC FAIL](https://sequencing.qcfail.com/) : articles about common NGS problems
+
+
+## Evaluation
+As trainers, we care about providing a comprehensive learning pathway. How was it in your opinion? Please, provide us your feedback through this [short evaluation form](https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000140).
