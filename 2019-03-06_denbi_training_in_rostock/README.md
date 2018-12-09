@@ -4,16 +4,16 @@
 
 | Time slot | Topic | Tutor |
 | :---: | :--- | :---: |
-| 08:30 - 09:15 | Registration ||
+| **08:30 - 09:15** | **Registration** ||
 | 09:15 - 09:45 | Welcome and Training Course Outline ||
 | 09:45 - 10:30 | Lecture: RNA and Bisulphite Sequencing Techniques | Steve Hoffmann |
-| 10:30 - 10:45 | Coffee break ||
+| **10:30 - 10:45** | **Coffee break** ||
 | 10:45 - 11:30 | Raw data formats | Markus Wolfien |
 | 11:30 - 12:15 | Hands-on: Introduction to Galaxy | Andrea Bagnacani |
-| 12:15 - 14:00 | Lunch ||
+| **12:15 - 14:00** | **Lunch** ||
 | 14:00 - 14:45 | Hands-on: Differential gene expression analysis - Quality control | Andrea Bagnacani |
 | 14:45 - 15:30 | Hands-on: Differential gene expression analysis - Mapping | Markus Wolfien |
-| 15:30 - 16:00 | Coffee break ||
+| **15:30 - 16:00** | **Coffee break** ||
 | 16:00 - 16:45 | Hands-on: Differential gene expression analysis - Quantification | Markus Wolfien |
 | 16:45 - 17:30 | Hands-on: Galaxy Modular Workflow Generator | Andrea Bagnacani, Konstantin Riege |
 
