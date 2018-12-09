@@ -18,19 +18,18 @@
 | 16:45 - 17:30 | Hands-on: Galaxy Modular Workflow Generator | Andrea Bagnacani, Konstantin Riege |
 
 ## Day 2 - Thursday
-
+ Epigenetics | Wolfgang Hess |
 | Time slot | Topic | Tutor |
 | :---: | :--- | :---: |
-| 08:30 - 09:00 | Welcome Coffee ||
-| 09:00 - 10:15 | Epigenetics | Wolfgang Hess |
-| 10:15 - 11:15 | Differential methylation analysis: Quality control | Konstantin Riege |
-| 11:15 - 11:30 | Coffee Break ||
-| 11:30 - 12:30 | Differential methylation analysis: Mapping | Konstantin Riege |
-| 12:30 - 14:00 | Lunch ||
-| 14:00 - 14:45 | Differential methylation analysis: Quantification | Konstantin Riege |
-| 14:45 - 15:45 | Differential methylation analysis: Visualization | Konstantin Riege, Steve Hoffmann |
-| 15:45 - 16:00 | Coffee Break ||
-| 16:00 - 17:30 | Poster Session ||
+| **08:30 - 09:00** | **Welcome and Coffee** ||
+| 09:00 - 10:15 | Hands-on: Differential methylation analysis - Quality control | Konstantin Riege |
+| 10:15 - 11:15 | Hands-on: Differential methylation analysis - Mapping | Konstantin Riege |
+| **11:15 - 11:30** | **Coffee Break** ||
+| 11:30 - 12:30 | Hands-on: Differential methylation analysis - Quantification | Konstantin Riege |
+| **12:30 - 14:00** | **Lunch** ||
+| 14:00 - 14:45 | Hands-on: Differential methylation analysis - Visualization | Konstantin Riege, Steve Hoffmann |
+| **14:45 - 15:00** | **Coffee Break** ||
+| 15:00 - 17:00 | Poster Session ||
 
 ## Day 3 - Friday
 
