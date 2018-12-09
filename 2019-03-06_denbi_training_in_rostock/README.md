@@ -2,48 +2,45 @@
 
 ## Day 1 - Wednesday
 
-| Time slot | Topic | Tutor |
+| **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 08:15 - 09:15 | Registration ||
-| 09:15 - 09:45 | Welcome and Training Course Outline ||
-| 09:45 - 10:30 | Sequencing Techniques and DNA Methylation | Steve Hoffmann |
+| 08:30 - 09:15 | Registration ||
+| 09:15 - 09:45 | Welcome and training course outline ||
+| 09:45 - 10:30 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
 | 10:30 - 10:45 | Coffee break ||
-| 10:45 - 11:30 | Raw data formats | Markus |
-| 11:30 - 12:15 | Introduction to Galaxy | Andrea Bagnacani |
+| 10:45 - 11:30 | Raw data and formats | Markus Wolfien |
+| 11:30 - 12:15 | Hands-on: Introduction to Galaxy | Andrea Bagnacani |
 | 12:15 - 14:00 | Lunch ||
-| 14:00 - 14:45 | Introduction to Docker and Galaxy flavors | Andrea Bagnacani, Konstantin Riege |
-| 14:45 - 15:30 | Differential gene expression analysis: Quality control | Andrea Bagnacani |
+| 14:00 - 14:45 | Hands-on: Differential gene expression analysis - Quality control | Andrea Bagnacani |
+| 14:45 - 15:30 | Hands-on: Differential gene expression analysis - Mapping | Markus Wolfien |
 | 15:30 - 16:00 | Coffee break ||
-| 16:00 - 16:45 | Differential gene expression analysis: Mapping | Markus Wolfien |
-| 16:45 - 17:30 | Differential gene expression analysis: Quantification | Markus Wolfien |
-| 17:30 - 18:00 | Discussion ||
+| 16:00 - 16:45 | Hands-on: Differential gene expression analysis - Quantification | Markus Wolfien |
+| 16:45 - 17:30 | Hands-on: Galaxy Modular Workflow Generator | Andrea Bagnacani, Konstantin Riege |
 
 ## Day 2 - Thursday
 
-| Time slot | Topic | Tutor |
+| **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 08:30 - 09:00 | Welcome Coffee ||
-| 09:00 - 10:15 | Epigenetics | Wolfgang Hess |
-| 10:15 - 11:15 | Differential methylation analysis: Quality control | Konstantin Riege |
+| 08:30 - 09:00 | Welcome and coffee ||
+| 09:00 - 10:15 | Hands-on: Differential methylation analysis - Quality control | Konstantin Riege |
+| 10:15 - 11:15 | Hands-on: Differential methylation analysis - Mapping | Konstantin Riege |
 | 11:15 - 11:30 | Coffee Break ||
-| 11:30 - 12:30 | Differential methylation analysis: Mapping | Konstantin Riege |
+| 11:30 - 12:30 | Hands-on: Differential methylation analysis - Quantification | Konstantin Riege |
 | 12:30 - 14:00 | Lunch ||
-| 14:00 - 14:45 | Differential methylation analysis: Quantification | Konstantin Riege |
-| 14:45 - 15:45 | Differential methylation analysis: Visualization | Konstantin Riege, Steve Hoffmann |
-| 15:45 - 16:00 | Coffee Break ||
-| 16:00 - 17:30 | Poster Session ||
+| 14:00 - 14:45 | Hands-on: Differential methylation analysis - Visualization | Konstantin Riege, Steve Hoffmann |
+| 14:45 - 15:00 | Coffee Break ||
+| 15:00 - 17:00 | Poster Session ||
 
 ## Day 3 - Friday
 
-| Time slot | Topic (materials in links) | Tutor |
+| **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 08:30 - 09:00 | Welcome Coffee + evaluation ||
-| 09:00 - 09:45 | Nanopore Direct-RNA Sequencing | Steffen C. Lott |
-| 09:45 - 10:30 |||
+| 08:30 - 09:00 | Welcome and coffee + evaluation of the course ||
+| 09:00 - 09:45 | Lecture: Epigenetics at the DNA level | Wolfgang Hess |
+| 09:45 - 10:30 | Lecture: Third Generation Sequencing | Steffen C. Lott |
 | 10:30 - 11:00 | Coffee Break ||
-| 11:00 - 11:45 |||
-| 11:45 - 12:30 |||
-| 12:30 - 14:00 | Questions and Goodbye ||
+| 11:00 - 12:30 | Hands-on: Working with Nanopore sequencing data | Steffen C. Lott |
+| 12:30 - 13:30 | Discussion ||
 
 # Useful links
 - [Galaxy training material](https://galaxyproject.github.io/training-material/): a collection of tutorials developed and maintained by the worldwide Galaxy community
