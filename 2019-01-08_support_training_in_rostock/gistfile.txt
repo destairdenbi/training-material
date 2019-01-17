@@ -1,6 +1,6 @@
 ---
 tags:
-title: support training offered by de.STAIR Rostock to Postdocs and medical students from the University Medicine Hospital of Rostock, approaching the Galaxy framework for data analysis applications
+title: support training offered by de.STAIR Rostock to Postdocs and medical students from the University Hospital of Rostock, approaching the Galaxy framework for data analysis applications
 starts: 2019-01-08
 ends: 2019-01-08
 organiser:
