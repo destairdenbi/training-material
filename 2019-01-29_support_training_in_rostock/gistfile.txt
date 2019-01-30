@@ -1,0 +1,10 @@
+---
+tags:
+title: support training offered by de.STAIR Rostock to Rostock undergraduates, approaching data analysis applications in the Life Sciences
+starts: 2019-01-29
+ends: 2019-01-31
+organiser:
+  name: Markus Wolfien
+  email: markus.wolfien@uni-rostock.de
+location: Ulmenstr. 69, 18057 Rostock, Germany
+---
