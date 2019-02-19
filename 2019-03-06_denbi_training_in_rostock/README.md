@@ -30,9 +30,8 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
 All training sessions will be delivered at Konrad-Zuse-Haus, Albert-Einstein-Str. 22, 18059 Rostock.  
 The building can be reached using the S-Bahn lines **4** and **6**, stop: **Campus Südstadt**. Please, refer to the [RSAG](https://www.rsag-online.de/) public transportation page for timetables and directiions.  
 Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the training room at the 2nd floor (PC-Pool 239).
-
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.105286717414856%2C54.07648140597233%2C12.107309103012087%2C54.078429557442554&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/54.07746/12.10630">View Larger Map</a></small>
+[<img align="center" src="assets/img/map-kzh.png" height="200px" alt="Konrad-Zuse-Haus" valign="middle">](https://www.openstreetmap.org/#map=19/54.07746/12.10630)
+<br />
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Schedule
