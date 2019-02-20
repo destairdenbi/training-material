@@ -86,7 +86,7 @@ Please prepare a 5 minutes pitch presentation: every poster will be presented to
 
 ## Coffee breaks
 
-The training course takes place in a computer pool where it is prohibited to eat or brew coffee. You can however bring your own mugs, or ask us some coffee to go from the nearby cafe. We will bring water boilers, so that tea can be prepared during the 15 minutes break.
+The training course takes place in a computer pool where it is prohibited to eat or brew coffee. You can however bring your own coffee, or we can order one for you for the coffee break. We will bring water boilers, so that tea can be prepared during the 15 minutes break.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Evening event
