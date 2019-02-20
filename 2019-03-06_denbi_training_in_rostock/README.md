@@ -41,7 +41,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
 | 08:30 - 09:00 | Registration and login ||
-| 09:00 - 09:30 | Welcome and training course outline | Olaf Wolkenhauer |
+| 09:00 - 09:30 | Welcome and training course outline | Andrea Bagnacani |
 | 09:30 - 10:15 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
 | 10:15 - 10:30 | Coffee break | [self service](#coffee-breaks) |
 | 10:30 - 11:15 | Raw data and formats | Markus Wolfien |
