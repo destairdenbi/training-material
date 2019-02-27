@@ -28,7 +28,7 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
 ## Venue
 
 All training sessions will be delivered at Konrad-Zuse-Haus, Albert-Einstein-Str. 22, 18059 Rostock.  
-The building can be reached using the Straßenbahn lines **4** and **6** or Bus 39, stop: **Campus Südstadt**. Please, refer to the [RSAG](https://www.rsag-online.de/) public transportation page for timetables and directions.  
+The building can be reached using the Straßenbahn lines **4** and **6** or Bus **39**, stop: **Campus Südstadt**. Please, refer to the [RSAG](https://www.rsag-online.de/) public transportation page for timetables and directions.  
 Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the training room at the 2nd floor (PC-Pool 239).
 [<img align="center" src="assets/img/map-kzh.png" height="200px" alt="Konrad-Zuse-Haus" valign="middle">](https://www.openstreetmap.org/#map=19/54.07746/12.10630)
 <br />
@@ -80,7 +80,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 
 ## Poster session
 
-The poster session will be held in the same room that we'll use throughout the whole 3 days training event. You can choose whether to bring an A1/A0 poster, as well as a PDF version to be shown using our projector.  
+The poster session will be held in the same room that we'll use throughout the whole 3 days training event. Due to space limitations, we cannot hang posters, however, you should bring a PDF version that will be shown using our projector.  
 Please prepare a 5 minutes pitch presentation: every poster will be presented to the whole class.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
