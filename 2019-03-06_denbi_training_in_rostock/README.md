@@ -44,7 +44,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | 09:00 - 09:30 | Welcome and training course outline | Andrea Bagnacani |
 | 09:30 - 10:15 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
 | 10:15 - 10:30 | Coffee break | [self service](#coffee-breaks) |
-| 10:30 - 11:15 | Raw data and formats | Markus Wolfien |
+| 10:30 - 11:15 | Lecture: Introduction to sequencing data analysis | Markus Wolfien |
 | 11:15 - 12:00 | Hands-on: Introduction to Galaxy | Andrea Bagnacani |
 | 12:00 - 13:45 | Lunch ||
 | 13:45 - 14:30 | Hands-on: Differential gene expression analysis - Quality control | Andrea Bagnacani |
