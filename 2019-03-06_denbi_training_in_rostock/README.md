@@ -19,6 +19,7 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
   - [Day 1](#day-1---wednesday-6th-march)
   - [Day 2](#day-2---thursday-7th-march)
   - [Day 3](#day-3---friday-8th-march)
+- [Run our Docker container](#run-our-docker-container)
 - [Poster session](#poster-session)
 - [Coffee breaks](#coffee-breaks)
 - [Evening event](#evening-event)
@@ -76,6 +77,19 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | 10:30 - 11:00 | Coffee Break | [self service](#coffee-breaks) |
 | 11:00 - 12:30 | Hands-on: Working with Nanopore sequencing data | Steffen C. Lott |
 | 12:30 - 13:30 | Discussion ||
+<p align="right"><a href="#top">&#x25B2; back to top</a></p>
+
+## Run our Docker container
+
+To run our Docker containers on our machines, we use Docker for Windows. Follow these steps to run our container:
+- Click on the Windows icon (bottom left), select *Programme*, and double click to open Docker for Windows
+- Docker is starting (tray icon bottom right)
+- When *Docker is running*
+- Click on the Windows icon (bottom left), and double-click to open Windows PowerShell
+- docker run -d -p 8080:80 quay.io/destair/galaxy-modular-workflow-generator
+- Open a new tab in your browser, and go to ``localhost:8080``
+- A local Galaxy framework service is running :)
+- Login with the default login credentials to try it
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Poster session
