@@ -81,7 +81,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 
 ## Run our Docker container
 
-To run our Docker containers on our machines, we use Docker for Windows. Follow these steps to run our container:
+To run Docker containers on our machines, we use [Docker for Windows](https://docs.docker.com/docker-for-windows/). Follow these steps to run [our Galaxy docker container](https://github.com/destairdenbi/galaxy-modular-workflow-generator):
 - Click on the Windows icon (bottom left), select *Programme*, and double click to open Docker for Windows
 - Docker is starting (tray icon bottom right)
 - When *Docker is running*
