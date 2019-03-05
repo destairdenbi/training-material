@@ -46,9 +46,9 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | 09:30 - 10:15 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
 | 10:15 - 10:30 | Coffee break | [self service](#coffee-breaks) |
 | 10:30 - 11:15 | Lecture: Introduction to sequencing data analysis | Markus Wolfien |
-| 11:15 - 12:00 | Hands-on: Introduction to Galaxy | Andrea Bagnacani |
+| 11:15 - 12:00 | Hands-on: Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)| Andrea Bagnacani |
 | 12:00 - 13:45 | Lunch ||
-| 13:45 - 14:30 | Hands-on: Differential gene expression analysis - Quality control | Andrea Bagnacani |
+| 13:45 - 14:30 | Hands-on: Differential gene expression analysis - Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| Andrea Bagnacani |
 | 14:30 - 15:15 | Hands-on: Differential gene expression analysis - Mapping | Markus Wolfien |
 | 15:15 - 15:45 | Coffee break | [self service](#coffee-breaks) |
 | 15:45 - 16:30 | Hands-on: Differential gene expression analysis - Quantification | Markus Wolfien |
