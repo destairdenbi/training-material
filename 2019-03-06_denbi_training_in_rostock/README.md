@@ -118,5 +118,5 @@ After the first day, who wants to join can follow us through a visit of the city
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Evaluation
-As trainers, we care about providing a comprehensive learning pathway. How was it in your opinion? Please, provide us your feedback through this short evaluation form.
+As trainers, we care about providing a comprehensive learning pathway. How was it in your opinion? Please, [provide us your feedback through this short evaluation form](https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000183).
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
