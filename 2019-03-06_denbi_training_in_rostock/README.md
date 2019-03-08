@@ -45,7 +45,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | 09:00 - 09:30 | Welcome and training course outline | Andrea Bagnacani |
 | 09:30 - 10:15 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
 | 10:15 - 10:30 | Coffee break | [self service](#coffee-breaks) |
-| 10:30 - 11:15 | Lecture: Introduction to sequencing data analysis [(slides)](https://github.com/destairdenbi/trainings/raw/master/2019-03-06_denbi_training_in_rostock/slides/deSTAIR_training_RNA_seq_Galaxy_Rostock190306_handouts.pdf)| Markus Wolfien |
+| 10:30 - 11:15 | Lecture: Introduction to sequencing data analysis [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/rna-seq.pdf)| Markus Wolfien |
 | 11:15 - 12:00 | Hands-on: Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)| Andrea Bagnacani |
 | 12:00 - 13:45 | Lunch ||
 | 13:45 - 14:30 | Hands-on: Differential gene expression analysis - Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| Andrea Bagnacani |
