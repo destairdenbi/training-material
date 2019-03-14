@@ -7,6 +7,7 @@ This repository collects all badges, agendas, flyers, and sharable documents of 
 | 2016-10-26 | [de.NBI training at EASyM Berlin](https://github.com/bagnacan/trainings/tree/master/2016-10-26_denbi_training_at_easym_berlin) |
 | 2017-03-20 | [support training in Rostock](https://github.com/bagnacan/trainings/tree/master/2017-03-20_support_training_in_rostock) |
 | 2017-03-29 | [de.NBI training at CASyM Ljubljana](https://github.com/bagnacan/trainings/tree/master/2017-03-29_denbi_training_at_casym_ljubljana) |
+| 2017-09-18 | [de.NBI_training_at_GMDS_Oldenburg](https://github.com/destairdenbi/trainings/tree/master/2017-09-18_denbi_training_at_gmds_oldenburg) |
 | 2017-09-29 | [support training in Dummerstorf](https://github.com/bagnacan/trainings/tree/master/2017-09-29_support_training_in_dummerstorf) |
 | 2017-10-04 | [de.NBI training in Freiburg](https://github.com/bagnacan/trainings/tree/master/2017-10-04_denbi_training_in_freiburg) |
 | 2017-10-10 | [support training in Rostock](https://github.com/bagnacan/trainings/tree/master/2017-10-10_support_training_in_rostock) |
