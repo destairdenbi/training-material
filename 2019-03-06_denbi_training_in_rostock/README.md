@@ -59,12 +59,12 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 09:00 - 10:15 | Hands-on: Differential methylation analysis - Quality control | Konstantin Riege |
-| 10:15 - 11:15 | Hands-on: Differential methylation analysis - Mapping | Konstantin Riege |
+| 09:00 - 10:15 | Hands-on: Differential methylation analysis - Quality control [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/bs-seq.pdf) | Konstantin Riege |
+| 10:15 - 11:15 | Hands-on: Differential methylation analysis - Mapping [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/bs-seq.pdf) | Konstantin Riege |
 | 11:15 - 11:30 | Coffee Break | [self service](#coffee-breaks) |
-| 11:30 - 12:30 | Hands-on: Differential methylation analysis - Quantification | Konstantin Riege |
+| 11:30 - 12:30 | Hands-on: Differential methylation analysis - Quantification [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/bs-seq.pdf) | Konstantin Riege |
 | 12:30 - 14:00 | Lunch ||
-| 14:00 - 14:45 | Hands-on: Differential methylation analysis - Visualization | Konstantin Riege, Steve Hoffmann |
+| 14:00 - 14:45 | Hands-on: Differential methylation analysis - Visualization [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/bs-seq.pdf) | Konstantin Riege, Steve Hoffmann |
 | 14:45 - 15:00 | Coffee Break | [self service](#coffee-breaks) |
 | 15:00 - 17:00 | Poster Session | [pitch presentations](#poster-session) |
 
