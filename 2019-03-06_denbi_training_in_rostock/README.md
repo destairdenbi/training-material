@@ -21,7 +21,6 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
   - [Day 3](#day-3---friday-8th-march)
 - [Run our Docker container](#run-our-docker-container)
 - [Poster session](#poster-session)
-- [Coffee breaks](#coffee-breaks)
 - [Evening event](#evening-event)
 - [Useful links](#useful-links)
 - [Evaluation](#evaluation)
@@ -44,13 +43,13 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | 08:30 - 09:00 | Registration and login ||
 | 09:00 - 09:30 | Welcome and training course outline | Andrea Bagnacani |
 | 09:30 - 10:15 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
-| 10:15 - 10:30 | Coffee break | [self service](#coffee-breaks) |
+| 10:15 - 10:30 | Coffee break ||
 | 10:30 - 11:15 | Lecture: Introduction to sequencing data analysis [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/rna-seq.pdf)| Markus Wolfien |
 | 11:15 - 12:00 | Hands-on: Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)| Andrea Bagnacani |
 | 12:00 - 13:45 | Lunch ||
 | 13:45 - 14:30 | Hands-on: Differential gene expression analysis - Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| Andrea Bagnacani |
 | 14:30 - 15:15 | Hands-on: Differential gene expression analysis - Mapping [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)| Markus Wolfien |
-| 15:15 - 15:45 | Coffee break | [self service](#coffee-breaks) |
+| 15:15 - 15:45 | Coffee break ||
 | 15:45 - 16:30 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Markus Wolfien |
 | 16:30 - 17:15 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/bagnacan/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
 | 18:00 | Walk in the city, and dinner at the harbour | [booking necessary](#evening-event) |
@@ -61,11 +60,11 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | :---: | :--- | :---: |
 | 09:00 - 10:15 | Hands-on: Differential methylation analysis - Quality control [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/bs-seq.pdf) | Konstantin Riege |
 | 10:15 - 11:15 | Hands-on: Differential methylation analysis - Mapping [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/bs-seq.pdf) | Konstantin Riege |
-| 11:15 - 11:30 | Coffee Break | [self service](#coffee-breaks) |
+| 11:15 - 11:30 | Coffee Break ||
 | 11:30 - 12:30 | Hands-on: Differential methylation analysis - Quantification [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/bs-seq.pdf) | Konstantin Riege |
 | 12:30 - 14:00 | Lunch ||
 | 14:00 - 14:45 | Hands-on: Differential methylation analysis - Visualization [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-03-06_denbi_training_in_rostock/slides/bs-seq.pdf) | Konstantin Riege, Steve Hoffmann |
-| 14:45 - 15:00 | Coffee Break | [self service](#coffee-breaks) |
+| 14:45 - 15:00 | Coffee Break ||
 | 15:00 - 17:00 | Poster Session | [pitch presentations](#poster-session) |
 
 ### Day 3 - Friday 8th March
@@ -74,7 +73,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | :---: | :--- | :---: |
 | 09:00 - 09:45 | Evaluation of the course + Lecture: Epigenetics at the DNA level | Wolfgang Hess |
 | 09:45 - 10:30 | Lecture: Third Generation Sequencing | Steffen C. Lott |
-| 10:30 - 11:00 | Coffee Break | [self service](#coffee-breaks) |
+| 10:30 - 11:00 | Coffee Break ||
 | 11:00 - 12:30 | Hands-on: Working with Nanopore sequencing data | Steffen C. Lott |
 | 12:30 - 13:30 | Discussion ||
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
@@ -96,11 +95,6 @@ To run Docker containers on our machines, we use [Docker for Windows](https://do
 
 The poster session will be held in the same room that we'll use throughout the whole 3 days training event. Due to space limitations, we cannot hang posters, however, you should bring a PDF version that will be shown using our projector.  
 Please prepare a 5 minutes pitch presentation: every poster will be presented to the whole class.
-<p align="right"><a href="#top">&#x25B2; back to top</a></p>
-
-## Coffee breaks
-
-The training course takes place in a computer pool where it is prohibited to eat or brew coffee. You can however bring your own coffee, or we can order one for you for the coffee break. We will bring water boilers, so that tea can be prepared during the 15 minutes break.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Evening event
