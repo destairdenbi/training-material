@@ -27,8 +27,7 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
 
 ## Venue
 
-All training sessions will be delivered at the Dep. of Biology, Schänzlestraße 1, 79104 Freiburg.  
-The building can be reached using the Straßenbahn line **4**, stop: **Hauptstraße**. Please, refer to the [VAG](https://www.vag-freiburg.de/) public transportation page for timetables and directions.  
+All training sessions will be delivered at the Dep. of Biology, Schänzlestraße 1, 79104 Freiburg. The building can be reached using the Straßenbahn line **4**, stop: **Hauptstraße**. Please, refer to the [VAG](https://www.vag-freiburg.de/) public transportation page for timetables and directions.  
 Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the designated room.
 [<img align="center" src="assets/img/map-biologie.png" height="200px" alt="Biologie II/III" valign="middle">](https://www.openstreetmap.org/?mlat=48.00989&mlon=7.85747#map=17/48.01108/7.85693)
 <br />
@@ -52,7 +51,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | 15:15 - 15:45 | Coffee break ||
 | 15:45 - 16:30 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Markus Wolfien |
 | 16:30 - 17:15 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/bagnacan/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
-| 18:00 | Walk in the city, and dinner at the harbour | [booking necessary](#evening-event) |
+| 18:00 | Dinner | [booking necessary](#evening-event) |
 
 ### Day 2 - Thursday 10th October
 
