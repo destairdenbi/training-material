@@ -90,7 +90,7 @@ To run Docker containers on our machines, we use [Docker for Windows](https://do
 
 ## Poster session
 
-The poster session will be held in the same room that we'll use throughout the whole 3 days training event. Due to space limitations, we cannot hang posters, however, you should bring a PDF version that will be shown using our projector.  
+The poster session will be held in the same room that we'll use throughout the whole 3 days training event. Bring a PDF version of your poster! We will show it using a projector.  
 Please prepare a 5 minutes pitch presentation: every poster will be presented to the whole class.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
