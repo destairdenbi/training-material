@@ -48,7 +48,7 @@ All training sessions will be delivered at the Dep. of Biology, Schänzlestraße
 | 15:00 - 15:45 | Hands-on: Differential gene expression analysis - Mapping [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)| Markus Wolfien |
 | 15:45 - 16:30 | Coffee break ||
 | 16:30 - 17:15 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Markus Wolfien |
-| 17:15 - 18:00 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/bagnacan/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
+| 17:15 - 18:00 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/destairdenbi/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
 | 18:00 | Dinner | [booking necessary](#evening-event) |
 
 ### Day 2 - Thursday 10th October
