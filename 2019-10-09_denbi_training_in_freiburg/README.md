@@ -77,15 +77,15 @@ All training sessions will be delivered at the Dep. of Biology, Schänzlestraße
 
 ## Run our Docker container
 
-To run Docker containers on our machines, we use [Docker for Windows](https://docs.docker.com/docker-for-windows/). Follow these steps to run [our Galaxy docker container](https://github.com/destairdenbi/galaxy-modular-workflow-generator):
-- Click on the Windows icon (bottom left), select *Programme*, and double click to open Docker for Windows
-- Docker is starting (tray icon bottom right)
-- When *Docker is running*
-- Click on the Windows icon (bottom left), and double-click to open Windows PowerShell
-- docker run -d -p 8080:80 quay.io/destair/galaxy-modular-workflow-generator
-- Open a new tab in your browser, and go to ``localhost:8080``
-- A local Galaxy framework service is running :)
-- Login with the default login credentials to try it
+To run Docker containers on our machines, type:
+```
+$ docker run -d -p 8080:80 quay.io/destair/galaxy-modular-workflow-generator:latest
+```
+
+After that, the Galaxy instance can be accessed in a web browser at:
+```
+localhost:8080
+```
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Poster session
