@@ -38,18 +38,17 @@ All training sessions will be delivered at the Dep. of Biology, Schänzlestraße
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 08:30 - 09:00 | Registration and login ||
-| 09:00 - 09:30 | Welcome and training course outline | Andrea Bagnacani |
-| 09:30 - 10:15 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
-| 10:15 - 10:30 | Coffee break ||
-| 10:30 - 11:15 | Lecture: Introduction to sequencing data analysis | Markus Wolfien |
-| 11:15 - 12:00 | Hands-on: Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)| Andrea Bagnacani |
-| 12:00 - 13:45 | Lunch ||
-| 13:45 - 14:30 | Hands-on: Differential gene expression analysis - Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| Andrea Bagnacani |
-| 14:30 - 15:15 | Hands-on: Differential gene expression analysis - Mapping [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)| Markus Wolfien |
-| 15:15 - 15:45 | Coffee break ||
-| 15:45 - 16:30 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Markus Wolfien |
-| 16:30 - 17:15 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/bagnacan/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
+| 08:30 - 09:00 | Welcome and training course outline | Andrea Bagnacani |
+| 09:00 - 10:40 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
+| 10:40 - 11:00 | Coffee break ||
+| 11:00 - 11:45 | Lecture: Introduction to sequencing data analysis | Markus Wolfien |
+| 11:45 - 12:30 | Hands-on: Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)| Andrea Bagnacani |
+| 12:30 - 14:15 | Lunch ||
+| 14:15 - 15:00 | Hands-on: Differential gene expression analysis - Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| Andrea Bagnacani |
+| 15:00 - 15:45 | Hands-on: Differential gene expression analysis - Mapping [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)| Markus Wolfien |
+| 15:45 - 16:30 | Coffee break ||
+| 16:30 - 17:15 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Markus Wolfien |
+| 17:15 - 18:00 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/bagnacan/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
 | 18:00 | Dinner | [booking necessary](#evening-event) |
 
 ### Day 2 - Thursday 10th October
@@ -58,22 +57,22 @@ All training sessions will be delivered at the Dep. of Biology, Schänzlestraße
 | :---: | :--- | :---: |
 | 09:00 - 10:15 | Hands-on: Differential methylation analysis - Quality control | Konstantin Riege |
 | 10:15 - 11:15 | Hands-on: Differential methylation analysis - Mapping | Konstantin Riege |
-| 11:15 - 11:30 | Coffee Break ||
-| 11:30 - 12:30 | Hands-on: Differential methylation analysis - Quantification | Konstantin Riege |
-| 12:30 - 14:00 | Lunch ||
-| 14:00 - 14:45 | Hands-on: Differential methylation analysis - Visualization | Konstantin Riege, Steve Hoffmann |
-| 14:45 - 15:00 | Coffee Break ||
-| 15:00 - 17:00 | Poster Session | [pitch presentations](#poster-session) |
+| 11:15 - 11:45 | Coffee Break ||
+| 11:45 - 12:45 | Hands-on: Differential methylation analysis - Quantification | Konstantin Riege |
+| 12:45 - 14:30 | Lunch ||
+| 14:30 - 15:15 | Hands-on: Differential methylation analysis - Visualization | Konstantin Riege, Steve Hoffmann |
+| 15:15 - 15:30 | Coffee Break ||
+| 15:30 - 17:30 | Poster Session | [pitch presentations](#poster-session) |
 
 ### Day 3 - Friday 11th October
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 09:00 - 09:45 | Evaluation of the course + Lecture: Epigenetics at the DNA level | Wolfgang Hess |
-| 09:45 - 10:30 | Lecture: Third Generation Sequencing | Steffen C. Lott |
-| 10:30 - 11:00 | Coffee Break ||
-| 11:00 - 12:30 | Hands-on: Working with Nanopore sequencing data | Steffen C. Lott |
-| 12:30 - 13:30 | Discussion ||
+| 09:00 - 10:15 | Lecture: Epigenetics at the DNA level | Wolfgang Hess |
+| 10:15 - 11:00 | Lecture: Third Generation Sequencing | Steffen C. Lott |
+| 11:00 - 11:15 | Coffee Break ||
+| 11:15 - 12:30 | Hands-on: Working with Nanopore sequencing data | Steffen C. Lott |
+| 12:30 - 13:30 | Evaluation of the course + Discussion ||
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Run our Docker container
