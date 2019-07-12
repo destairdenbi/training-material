@@ -96,7 +96,7 @@ Please prepare a 5 minutes pitch presentation: every poster will be presented to
 
 ## Evening event
 
-After the first day, we will dine at [Divan](https://www.divan-freiburg.de/). Please tell us if you want to join during the registration.
+After the first day, we will dine at [Vorderhaus Restaurant](http://www.vorderhaus-restaurant.de/). Please tell us if you want to join during the registration.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Useful links
