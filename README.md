@@ -19,4 +19,6 @@ This repository collects all badges, agendas, flyers, and sharable documents of 
 | 2019-01-08 | [support training in Rostock](https://github.com/bagnacan/trainings/tree/master/2019-01-08_support_training_in_rostock) |
 | 2019-01-29 | [support training in Rostock](https://github.com/bagnacan/trainings/tree/master/2019-01-29_support_training_in_rostock) |
 | 2019-03-06 | [de.NBI training in Rostock](https://github.com/bagnacan/trainings/tree/master/2019-03-06_denbi_training_in_rostock) |
+| 2019-04-04 | [support training in Jena](https://github.com/destairdenbi/trainings/tree/master/2019-04-04_support_training_in_jena) |
+| 2019-10-09 | [de.NBI training in Freiburg](https://github.com/destairdenbi/trainings/tree/master/2019-10-09_denbi_training_in_freiburg) |
 
