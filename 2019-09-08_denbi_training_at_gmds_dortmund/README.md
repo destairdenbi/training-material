@@ -34,4 +34,4 @@
 
 
 ## Evaluation
-As trainers, we care about providing a comprehensive learning pathway. How was it in your opinion? Please, provide us your feedback through this [short evaluation form](https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000140).
+As trainers, we care about providing a comprehensive learning pathway. How was it in your opinion? Please, provide us your feedback through this [short evaluation form](https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000218).
