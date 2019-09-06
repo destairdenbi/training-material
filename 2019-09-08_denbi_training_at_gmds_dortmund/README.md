@@ -18,14 +18,14 @@
 #### 13:45 - 15:15
 | Time slot     | Topic (materials in links) | Tutor |
 | :---: | :--- | :---: |
-| 14:30 - 15:15 | Case study of RNA-Seq patient data (hands-on) | Markus Wolfien |
-| 15:15 - 16:00 | Workflow development with Galaxy (hands-on) | Markus Wolfien |
+| 13:45 - 14:30 | Case study of RNA-Seq patient data (hands-on) | Markus Wolfien |
+| 14:30 - 15:15 | Workflow development with Galaxy (hands-on) | Markus Wolfien |
 
 #### 15:30 - 17:00
 | Time slot     | Topic (materials in links) | Tutor |
 | :---: | :--- | :---: |
-| 16:15 - 16:45 | Filtering and visualisation with Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/slides.html) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/tutorial.html) | Andrea Bagnacani |
-| 16:45 - 17:30 | Gene set enrichment analysis (hands-on) | Markus Wolfien |
+| 15:30 - 16:00 | Filtering and visualisation with Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/slides.html) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/tutorial.html) | Andrea Bagnacani |
+| 16:00 - 17:00 | Gene set enrichment analysis (hands-on) | Markus Wolfien |
 
 #### 17:15 - 18:00
 | Time slot     | Topic (materials in links) | Tutor |
