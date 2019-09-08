@@ -3,7 +3,7 @@
 #### 10:00 - 11:30
 | Time slot | Topic (materials in links) | Tutor |
 | :---: | :--- | :---: |
-| 10:00 - 10:20 | Introduction to RNA-Seq | Markus Wolfien |
+| 10:00 - 10:20 | Introduction to RNA-Seq [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-09-08_denbi_training_at_gmds_dortmund/slides/intro-rna-seq/slides.pdf) | Andrea Bagnacani |
 | 10:20 - 10:35 | Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1) | Andrea Bagnacani |
 | 10:35 - 10:45 | Galaxy - registration and tour | Andrea Bagnacani |
 | 10:45 - 11:05 | Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) | Andrea Bagnacani |
