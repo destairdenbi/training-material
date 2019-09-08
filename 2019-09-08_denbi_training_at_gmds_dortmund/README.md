@@ -13,7 +13,7 @@
 | Time slot     | Topic (materials in links) | Tutor |
 | :---: | :--- | :---: |
 | 11:45 - 12:00 | RNA-Seq mapping algorithms [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/slides.html#1) | Markus Wolfien |
-| 12:00 - 12:45 | RNA-Seq mapping and visualisation (hands-on) | Markus Wolfien |
+| 12:00 - 12:45 | RNA-Seq mapping and visualisation [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html) | Markus Wolfien |
 
 #### 13:45 - 15:15
 | Time slot     | Topic (materials in links) | Tutor |
