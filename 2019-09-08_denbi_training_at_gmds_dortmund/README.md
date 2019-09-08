@@ -24,7 +24,7 @@
 #### 15:30 - 17:00
 | Time slot     | Topic (materials in links) | Tutor |
 | :---: | :--- | :---: |
-| 15:30 - 16:00 | Filtering and visualisation with Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/slides.html) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/tutorial.html) | Andrea Bagnacani |
+| 15:30 - 16:00 | Filtering and visualisation with Galaxy ([hands-on 1](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-cummerbund/tutorial.html), [hands-on 2](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/tutorial.html)) | Andrea Bagnacani |
 | 16:00 - 17:00 | Gene set enrichment analysis (hands-on) | Markus Wolfien |
 
 #### 17:15 - 18:00
