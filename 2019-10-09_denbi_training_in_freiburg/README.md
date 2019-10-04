@@ -38,16 +38,16 @@ All training sessions will be delivered at the Dep. of Biology, Schänzlestraße
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 08:30 - 09:00 | Welcome and training course outline | Andrea Bagnacani |
+| 08:30 - 09:00 | Welcome and training course outline | Steffen C. Lott |
 | 09:00 - 10:40 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
 | 10:40 - 11:00 | Coffee break ||
-| 11:00 - 11:45 | Lecture: Introduction to sequencing data analysis | Markus Wolfien |
+| 11:00 - 11:45 | Lecture: Introduction to sequencing data analysis | Andrea Bagnacani |
 | 11:45 - 12:30 | Hands-on: Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)| Andrea Bagnacani |
 | 12:30 - 14:15 | Lunch ||
 | 14:15 - 15:00 | Hands-on: Differential gene expression analysis - Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| Andrea Bagnacani |
-| 15:00 - 15:45 | Hands-on: Differential gene expression analysis - Mapping [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)| Markus Wolfien |
+| 15:00 - 15:45 | Hands-on: Differential gene expression analysis - Mapping [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)| Andrea Bagnacani |
 | 15:45 - 16:30 | Coffee break ||
-| 16:30 - 17:15 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Markus Wolfien |
+| 16:30 - 17:15 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Konstantin Riege |
 | 17:15 - 18:00 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/destairdenbi/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
 | 18:00 | Dinner | [booking necessary](#evening-event) |
 
@@ -96,7 +96,7 @@ Please prepare a 5 minutes pitch presentation: every poster will be presented to
 
 ## Evening event
 
-After the first day, we will dine at [Vorderhaus Restaurant](http://www.vorderhaus-restaurant.de/). Please tell us if you want to join during the registration.
+After the first day, we will dine at the [Goldener Sternen](https://dergoldenestern-freiburg.de/). Please tell us if you want to join during the registration.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Useful links
@@ -109,5 +109,5 @@ After the first day, we will dine at [Vorderhaus Restaurant](http://www.vorderha
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 ## Evaluation
-As trainers, we care about providing a comprehensive learning pathway. How was it in your opinion? Please, [provide us your feedback through this short evaluation form]().
+As trainers, we care about providing a comprehensive learning pathway. How was it in your opinion? Please, [provide us your feedback through this short evaluation form](https://de.surveymonkey.com/r/denbi-course?sc=rbc&id=000232).
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
