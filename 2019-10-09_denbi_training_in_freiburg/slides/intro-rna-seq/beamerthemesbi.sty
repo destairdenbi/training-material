@@ -1,0 +1,114 @@
+\definecolor{sbi_heading}{RGB}{0,90,169}
+
+\setbeamercolor{section in head/foot}{fg=sbi_heading, bg=white}
+\setbeamercolor{group page}{fg=white, bg=sbi_heading}
+\setbeamercolor{frametitle}{fg=sbi_heading, bg=white}
+\setbeamercolor{title page top}{fg=white, bg=sbi_heading}
+\setbeamercolor{title page bottom}{fg=black, bg=white}
+
+\setbeamerfont{frametitle}{size=\Large, series=\bfseries}
+\setbeamerfont{title}{size=\Large, series=\bfseries}
+\setbeamerfont{author}{size=\small}
+\setbeamerfont{course}{size=\scriptsize}
+\setbeamerfont{date}{size=\small}
+
+\newdimen\frametitlesep
+\frametitlesep=1.5ex
+\newdimen\footbarsep
+\footbarsep=0.5ex
+
+
+% disable navigation
+\setbeamertemplate{navigation symbols}{}
+
+\def\maketitle{%
+  \ifbeamer@inframe
+    \titlepage
+  \else
+    \frame{\titlepage}[noframenumbering,plain]
+  \fi
+}
+
+% custom draw the title page above
+\setbeamertemplate{title page}{
+    \begin{beamercolorbox}[wd=\paperwidth, ht=0.5\paperheight, center]{title page top}
+    \vbox to 0.45\paperheight{
+        \vspace{1.0em}
+        \usebeamerfont{title}\inserttitle\par
+        \vspace{2.0em}
+        \usebeamerfont{author}\insertauthor\par
+        \vspace{1.5em}
+        \usebeamerfont{course}
+        \textit{9th October 2019, Freiburg}
+        \vspace{1.0em}
+    }
+    \end{beamercolorbox}
+    \begin{beamercolorbox}[wd=\paperwidth, ht=0.6\paperheight, center]{title page bottom}
+    \vbox to 0.45\paperheight{
+      \begin{center}
+        \vspace{-3em}
+        \begin{minipage}{0.5\textwidth}
+          \vspace{-2.2em}
+          \includegraphics[scale=0.06]{images/logo_denbi}
+        \end{minipage}
+        \begin{minipage}{0.4\textwidth}
+          \begin{center}
+            \vspace{-2.5em}
+            \includegraphics[scale=0.2]{images/logo_destair}
+          \end{center}
+          \begin{center}
+            \vspace{-1em}
+            \usebeamerfont{course}
+            destair.bioinf.uni-leipzig.de
+          \end{center}
+        \end{minipage}
+      \end{center}
+      \begin{center}
+        \begin{minipage}{0.42\textwidth}
+          \vspace{-2.5em}
+          \includegraphics[scale=0.25]{images/logo_fli}
+        \end{minipage}
+        \begin{minipage}{0.2\textwidth}
+          \vspace{-2.5em}
+          \includegraphics[scale=0.18]{images/logo_uni_freiburg}
+        \end{minipage}
+        \begin{minipage}{0.4\textwidth}
+          \vspace{-2.5em}
+          \includegraphics[scale=0.2]{images/logo_uni_rostock}
+        \end{minipage}
+      \end{center}
+    }
+    \end{beamercolorbox}
+}
+
+\setbeamertemplate{frametitle}{
+    \nointerlineskip
+    \usebeamerfont{frametitle}
+    \begin{beamercolorbox}[wd=\paperwidth,sep=\frametitlesep]{frametitle}
+        \begin{minipage}{0.85\textwidth}
+            \usebeamerfont{frametitle}\insertframetitle
+        \end{minipage}
+        \begin{minipage}{0.05\textwidth}
+            \vspace{-0.3em}
+            \hfill\includegraphics[scale=0.12]{images/logo_destair}
+        \end{minipage}
+        \vspace{-0.5em}
+        \rule[0.5\baselineskip]{\paperwidth}{0.6pt}
+    \end{beamercolorbox}
+}
+
+\setbeamertemplate{footline}{
+    \nointerlineskip
+    \usebeamerfont{frametitle}
+    \begin{beamercolorbox}[wd=\paperwidth]{section in head/foot}
+        \hfill
+        \begin{beamercolorbox}[wd=0.29\paperwidth, sep=\footbarsep]{group page}
+            \scriptsize destair.bioinf.uni-leipzig.de
+        \end{beamercolorbox}
+        %\hfill\scriptsize\insertframenumber/\inserttotalframenumber
+        %\scriptsize\insertframenumber
+        \begin{beamercolorbox}[wd=0.04\paperwidth, sep=\footbarsep]{section in head/foot}
+            \scriptsize\insertframenumber
+        \end{beamercolorbox}
+    \end{beamercolorbox}
+}
