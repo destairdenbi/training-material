@@ -41,7 +41,7 @@ All training sessions will be delivered at the Dep. of Biology, Schänzlestraße
 | 08:30 - 09:00 | Welcome and training course outline | Steffen C. Lott |
 | 09:00 - 10:40 | Lecture: RNA and Bisulfite sequencing techniques | Steve Hoffmann |
 | 10:40 - 11:00 | Coffee break ||
-| 11:00 - 11:45 | Lecture: Introduction to sequencing data analysis [(slides)](https://github.com/destairdenbi/trainings/blob/master/2019-10-09_denbi_training_in_freiburg/slides/intro-rna-seq/slides.pdf)| Andrea Bagnacani |
+| 11:00 - 11:45 | Lecture: Introduction to sequencing data analysis [(slides)](https://github.com/bagnacan/destair-trainings/blob/master/2019-10-09_denbi_training_in_freiburg/slides/intro-sequencing-analysis/slides.pdf)| Andrea Bagnacani |
 | 11:45 - 12:30 | Hands-on: Introduction to Galaxy [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1)| Andrea Bagnacani |
 | 12:30 - 14:15 | Lunch ||
 | 14:15 - 15:00 | Hands-on: Differential gene expression analysis - Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html)| Andrea Bagnacani |
