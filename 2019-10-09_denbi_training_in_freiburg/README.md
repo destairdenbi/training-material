@@ -57,7 +57,7 @@ All training sessions will be delivered at the Dep. of Biology, Schänzlestraße
 | :---: | :--- | :---: |
 | 09:00 - 10:15 | Hands-on: Differential methylation analysis - Quality control | Konstantin Riege |
 | 10:15 - 11:15 | Hands-on: Differential methylation analysis - Mapping | Konstantin Riege |
-| 11:15 - 11:45 | Coffee Break ||
+| 11:15 - 11:45 | Coffee Break [(history)](https://usegalaxy.eu/u/andrea.bagnacani/h/rbbs) ||
 | 11:45 - 12:45 | Hands-on: Differential methylation analysis - Quantification | Konstantin Riege |
 | 12:45 - 14:30 | Lunch ||
 | 14:30 - 15:15 | Hands-on: Differential methylation analysis - Visualization | Konstantin Riege, Steve Hoffmann |
