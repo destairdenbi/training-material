@@ -61,7 +61,7 @@ All training sessions will be delivered at the Dep. of Biology, Schänzlestraße
 | 11:45 - 12:45 | Hands-on: Differential methylation analysis - Quantification | Konstantin Riege |
 | 12:45 - 14:30 | Lunch ||
 | 14:30 - 15:15 | Hands-on: Differential methylation analysis - Visualization | Konstantin Riege, Steve Hoffmann |
-| 15:15 - 15:30 | Coffee Break [(history)](https://usegalaxy.eu/u/koriege/h/rrbs-freiburg ) ||
+| 15:15 - 15:30 | Coffee Break [(rrbs-history)](https://usegalaxy.eu/u/koriege/h/rrbs-freiburg ) [(dge-history)](https://usegalaxy.eu/u/koriege/h/dge-training-freiburg) ||
 | 15:30 - 17:30 | Poster Session | [pitch presentations](#poster-session) |
 
 ### Day 3 - Friday 11th October
