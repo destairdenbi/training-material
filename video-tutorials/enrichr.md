@@ -44,7 +44,7 @@ analyses.
 - Enrichr ranks terms by its *Enrichment score*. The scoring scheme is
   visually represented with transparent red bars: the longer and lighter
   colored, the more the term is significant
-- Let's inspect the **KEGG 2019 Human** pathways.
+- Let's inspect the *KEGG 2019 Human* pathways.
 - Enrichr expands the *Bar graph* visualization, and provides the possibility
   to represent the ranking as a *Table*, or *Clustergram*.
 - The scoring scheme can be inspected by hovering with the mouse on the
