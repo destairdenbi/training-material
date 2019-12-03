@@ -1,5 +1,8 @@
 # Enrichr script
 
+Enrichr can summarizes biological knowledge from multiple curated gene sets for
+further downstream analyses.
+
 - RNA-Seq analyses can show significant expression levels of hundreds of genes
   from our analysed samples.
 - For this reason, we can use *enrichment analysis* tools to contextualize our
@@ -68,5 +71,3 @@
   the literature for the role of ERBB2, e.g. investigate which miRNAs are
   related to its regulation.
 - Further biological discoveries can start from here!
-- Enrichr can summarizes biological knowledge from multiple curated gene sets
-  for further downstream analyses.
