@@ -39,7 +39,7 @@ analyses.
   hundreds.
 - In our analysis, we want to understand in which cancer pathway we can find
   our significantly expressed genes.
-- We move to the ``Pathway`` tab, which contains 24 different databases for
+- We move to the ``Pathways`` tab, which contains 24 different databases for
   different organisms.
 - Enrichr ranks terms by its *Enrichment score*. The scoring scheme is
   visually represented with transparent red bars: the longer and lighter
