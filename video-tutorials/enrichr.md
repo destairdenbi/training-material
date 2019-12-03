@@ -1,7 +1,11 @@
-# Enrichr script
+# Enrichr
 
-Enrichr can summarizes biological knowledge from multiple curated gene sets for
-further downstream analyses.
+Enrichr ([Chen et al. 2013](https://doi.org/10.1186/1471-2105-14-128),
+[Kuleshov et al. 2016](https://doi.org/10.1093/nar/gkw377)) summarizes
+biological knowledge from multiple curated gene sets for further downstream
+analyses.
+
+## Video tutorial script
 
 - RNA-Seq analyses can show significant expression levels of hundreds of genes
   from our analysed samples.
