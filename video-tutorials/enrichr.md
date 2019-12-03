@@ -11,6 +11,8 @@
    [Kuleshov et al. 2016](https://doi.org/10.1093/nar/gkw377)).
 - Go to your browser, and type: ``https://amp.pharm.mssm.edu/Enrichr`` in a new
   tab.
+- Enrichr is a search engine for curated gene sets, which summarizes biological
+  knowledge for further downstream analyses.
 - Enrichr is able to contextualize genes, by associating them their GO terms,
   retrieved from more than 40 gene set libraries.
 - In our Differential gene expression analysis, we ended up with XXX genes
@@ -45,7 +47,7 @@
 - You can manipulate the colors, and export the chart to share it with
   colleagues, or generate publication-ready plots.
 - By re-arranging the chart by *combined score ranking*, we notice that the
-  *Tumor Growth Factor(TGF)* pathway involves many of our enriched genes.
+  *Tumor Growth Factor (TGF)* pathway involves many of our enriched genes.
 - Given this finding, click on the Table view to overview the scores in
   comparison with the other entries.
 - Let's now click on the Clustergram view to find out which expressed genes are
@@ -60,3 +62,11 @@
   IDs.
 - Some of the expressed genes are present in multiple pathways at the same
   time.
+- Since Enrichr is able to attribute GO terms to hundreds of genes, here it is
+  possible to find genes whose role in the pathway was not known beforehand.
+- For instance, *ERBB2* is present in 3 different pathways. We can now search
+  the literature for the role of ERBB2, e.g. investigate which miRNAs are
+  related to its regulation.
+- Further biological discoveries can start from here!
+- Enrichr can summarizes biological knowledge from multiple curated gene sets
+  for further downstream analyses.
