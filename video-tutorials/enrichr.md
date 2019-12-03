@@ -38,6 +38,25 @@
 - Let's inspect the **KEGG 2019 Human** pathways.
 - Enrichr expands the *Bar graph* visualization, and provides the possibility
   to represent the ranking as a *Table*, or *Clustergram*.
-- You can manipulate every visualization, and export it for sharing with
+- The scoring scheme can be inspected by hovering with the mouse on the
+  preferred entry
+- You can click the chart to re-arrange the ranked results by different scoring
+  systems.
+- You can manipulate the colors, and export the chart to share it with
   colleagues, or generate publication-ready plots.
-
+- By re-arranging the chart by *combined score ranking*, we notice that the
+  *Tumor Growth Factor(TGF)* pathway involves many of our enriched genes.
+- Given this finding, click on the Table view to overview the scores in
+  comparison with the other entries.
+- Let's now click on the Clustergram view to find out which expressed genes are
+  involved in the cancerous pathways.
+- On the left column, Enrichr summarizes the scoring criteria that has been
+  used to render the chart, and provides buttons and selectors to change the
+  view
+- In the Clustergram visualization, a red square indicates in which pathway a
+  gene is playing a role.
+- We can now restrict/enlarge the list of genes and associated terms to have a
+  bird's-eye view of how many terms are associated with our top-ranked gene
+  IDs.
+- Some of the expressed genes are present in multiple pathways at the same
+  time.
