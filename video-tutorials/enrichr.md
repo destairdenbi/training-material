@@ -9,7 +9,11 @@ analyses.
 
 - RNA-Seq analyses can show significant expression levels of hundreds of genes
   from our analysed samples.
-- For this reason, we can use *enrichment analysis* tools to contextualize our
+- Here, we received the results of an RNA-Seq analysis, which a colleague
+  conducted to screen for breast cancer biomarkers.
+- These results consist of a list of significantly expressed genes in tabular
+  format.
+- We can use diverse *enrichment analysis* tools to contextualize our
   findings, and understand the functional biological meaning of the
   significantly expressed genes.
 - Among the popular tools that are able to perform enrichment analysis, there
@@ -22,7 +26,7 @@ analyses.
   knowledge for further downstream analyses.
 - Enrichr is able to contextualize genes, by associating them their GO terms,
   retrieved from more than 40 gene set libraries.
-- In our Differential gene expression analysis, we ended up with XXX genes
+- In our differential gene expression analysis, we ended up with 122 genes
   being significantly expressed.
 - We can upload this list to Enrichr, and check their functional biological
   meaning within the context of our analysis.
