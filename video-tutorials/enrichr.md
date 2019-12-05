@@ -8,9 +8,9 @@ analyses.
 ## Video tutorial script
 
 - RNA-Seq analyses can show significant expression levels of hundreds of genes
-  from our analysed samples.
-- Here, we received the results of an RNA-Seq analysis, which a colleague
-  conducted to screen for breast cancer biomarkers.
+  from the analysed samples.
+- Here, we received the results of an RNA-Seq analysis, conducted to screen
+  for breast cancer biomarkers.
 - These results consist of a list of significantly expressed genes in tabular
   format.
 - We can use diverse *enrichment analysis* tools to contextualize our
