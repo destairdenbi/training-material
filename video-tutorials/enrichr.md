@@ -24,7 +24,8 @@ out the biological function of each gene. We do this using
 
 ## Materials
 
-The input gene table that we used in the video can be retrieved from here.
+The input gene table that we used in the video can be retrieved from
+[here](https://raw.githubusercontent.com/destairdenbi/trainings/master/video-tutorials/data/expressed_genes.txt).
 
 The following list comprises the steps that are shown in the video.
 - RNA-Seq analyses can show significant expression levels of hundreds of genes
