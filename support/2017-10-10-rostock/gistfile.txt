@@ -6,5 +6,5 @@ ends: 2017-10-13
 organiser:
   name: Markus Wolfien
   email: markus.wolfien@uni-rostock.de
-location: Ulmenstr. 69, 18051 Rostock
+location: Ulmenstr. 69, 18057 Rostock
 ---
