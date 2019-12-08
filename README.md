@@ -43,14 +43,14 @@ students, postdocs, and Life Science scholars.
 
 | **Date** | **Location** |
 | :---: | :--- |
-| 2017-03-20 | [On-site support training in Rostock](https://github.com/destairdenbi/training-material/tree/master/2017-03-20-rostock) |
-| 2017-09-29 | [On-site support training in Dummerstorf](https://github.com/destairdenbi/training-material/tree/master/2017-09-29-dummerstorf) |
-| 2017-10-10 | [On-site support training in Rostock](https://github.com/destairdenbi/training-material/tree/master/2017-10-10-rostock) |
-| 2018-05-21 | [On-site support training in Rostock](https://github.com/destairdenbi/training-material/tree/master/2018-05-21-rostock) |
-| 2019-01-07 | [On-site support training in Dummerstorf](https://github.com/destairdenbi/training-material/tree/master/2019-01-07-dummerstorf) |
-| 2019-01-08 | [On-site support training in Rostock](https://github.com/destairdenbi/training-material/tree/master/2019-01-08-rostock) |
-| 2019-01-29 | [On-site support training in Rostock](https://github.com/destairdenbi/training-material/tree/master/2019-01-29-rostock) |
-| 2019-04-04 | [On-site support training in Jena](https://github.com/destairdenbi/training-material/tree/master/2019-04-04-jena) |
+| 2017-03-20 | [On-site support training at Uni. Rostock](https://github.com/destairdenbi/training-material/tree/master/2017-03-20-rostock) |
+| 2017-09-29 | [On-site support training at FBN Dummerstorf](https://github.com/destairdenbi/training-material/tree/master/2017-09-29-dummerstorf) |
+| 2017-10-10 | [On-site support training at Uni. Rostock](https://github.com/destairdenbi/training-material/tree/master/2017-10-10-rostock) |
+| 2018-05-21 | [On-site support training at Uni. Rostock](https://github.com/destairdenbi/training-material/tree/master/2018-05-21-rostock) |
+| 2019-01-07 | [On-site support training at FBN Dummerstorf](https://github.com/destairdenbi/training-material/tree/master/2019-01-07-dummerstorf) |
+| 2019-01-08 | [On-site support training at Uni. Rostock](https://github.com/destairdenbi/training-material/tree/master/2019-01-08-rostock) |
+| 2019-01-29 | [On-site support training at Uni. Rostock](https://github.com/destairdenbi/training-material/tree/master/2019-01-29-rostock) |
+| 2019-04-04 | [On-site support training at FLI Jena](https://github.com/destairdenbi/training-material/tree/master/2019-04-04-jena) |
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
