@@ -32,3 +32,28 @@ mentioned above.
 Our solution relies on [Kitematic](https://kitematic.com/), which provides an
 easy installation interface for both MacOSX and Windows systems.
 
+
+## Solution
+
+In the following tutorial we guide you through the steps to install Kitematic
+on your system.  
+The video shows the set up process on the MacOSX operative system, however,
+Windows users can rely on the same procedure.
+
+[<img align="center" src="img/install-kitematic.png" alt="Install Kitematic" valign="middle">](https://www.youtube.com/watch?v=ssnea4HXVfE)
+
+
+Now that Kitematic is set up, you can open it to browse the catalog of Docker
+images available at DockerHub.  
+To do so, you first need to register for free for a [DockerHub account](https://hub.docker.com/signup).  
+Now that you have an account, you can browse the catalog of Docker images, and
+run the Galaxy RNA workbench.
+
+[<img align="center" src="img/run-rna-workbench.png" alt="Run the Galaxy RNA workbench" valign="middle">](https://www.youtube.com/watch?v=fYer4Xdw_h4)
+
+The Galaxy RNA workbench can now be used to analyse data.  
+If you are not familiar with how the Galaxy interface is organized, how to
+import data into Galaxy, and where to find the tools, you can run an
+*interactive tour*.
+
+[<img align="center" src="img/run-interactive-tour.png" alt="UI Interactive tour" valign="middle">](https://www.youtube.com/watch?v=rP59wYIxWcI)
