@@ -69,8 +69,7 @@ we show the use of [Enrichr](https://amp.pharm.mssm.edu/Enrichr)
 ([Chen et al. 2013](https://doi.org/10.1186/1471-2105-14-128),
 [Kuleshov et al. 2016](https://doi.org/10.1093/nar/gkw377)) to carry out the
 enrichment analysis of a list of differtially expressed genes, which we
-obtained from the RNA-Seq analysis of 2 Next Generation Sequencing Human breast
-cancer data sets.
+obtained from the RNA-Seq analysis of two NGS Human breast cancer data sets.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
@@ -78,5 +77,8 @@ cancer data sets.
 
 In [this tutorial](https://github.com/destairdenbi/trainings/blob/master/video-tutorials/galaxy-docker-kitematic.md)
 we show how to set up your system in order to run the [Galaxy RNA workbench](https://github.com/bgruening/galaxy-rna-workbench)
-using [Kitematic](https://kitematic.com/).
+([Grüning et al. 2017](https://doi.org/10.1093/nar/gkx409),
+[Fallmann et al. 2019](https://doi.org/10.1093/nar/gkz353)) as a Docker
+container, using the [Kitematic](https://kitematic.com/) desktop
+application.
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
