@@ -30,7 +30,7 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
 ## Venue
 
 All training sessions will be delivered at the Dep. of Biology, Schänzlestraße 1, 79104 Freiburg. The building can be reached using the Straßenbahn line **4**, stop: **Hauptstraße**. Please, refer to the [VAG](https://www.vag-freiburg.de/) public transportation page for timetables and directions. Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the designated room.
-[<img align="center" src="assets/img/map-biologie.png" height="200px" alt="Biologie II/III" valign="middle">](https://www.openstreetmap.org/?mlat=48.00989&mlon=7.85747#map=17/48.01108/7.85693)
+[<img align="center" src="img/map-biologie.png" height="200px" alt="Biologie II/III" valign="middle">](https://www.openstreetmap.org/?mlat=48.00989&mlon=7.85747#map=17/48.01108/7.85693)
 <br />
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
