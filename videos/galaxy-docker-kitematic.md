@@ -5,8 +5,7 @@ The [Galaxy RNA workbench](https://github.com/bgruening/galaxy-rna-workbench)
 [Fallmann et al. 2019](https://doi.org/10.1093/nar/gkz353)) is a
 [Galaxy framework](https://galaxyproject.org/) which incorporates a
 comprehensive set of tools and best-practice workflows for the analysis of RNA
-data.  
-This framework is available as an on-line web server, at
+data. This framework is available as an on-line web server, at
 [https://rna.usegalaxy.eu](https://rna.usegalaxy.eu), or as a
 [Docker](https://www.docker.com/) container at
 [DockerHub](https://hub.docker.com/r/bgruening/galaxy-rna-workbench) and
