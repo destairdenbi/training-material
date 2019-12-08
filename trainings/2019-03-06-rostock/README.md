@@ -56,7 +56,7 @@ Once arrived, please follow the singns **de.NBI de.STAIR training** to reach the
 | 14:30 - 15:15 | Hands-on: Differential gene expression analysis - Mapping [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/mapping/tutorial.html)| Markus Wolfien |
 | 15:15 - 15:45 | Coffee break ||
 | 15:45 - 16:30 | Hands-on: Differential gene expression analysis - Quantification [(data)](https://usegalaxy.eu/u/mwolfien/h/galaxy-training-rostock-quantification) [(hands-on)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html#analysis-of-the-differential-gene-expression)| Markus Wolfien |
-| 16:30 - 17:15 | Hands-on: [Galaxy Modular Workflow Generator](https://github.com/bagnacan/galaxy-modular-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
+| 16:30 - 17:15 | Hands-on: [Galaxy workflow generator](https://github.com/destairdenbi/galaxy-workflow-generator) | Andrea Bagnacani, Konstantin Riege |
 | 18:00 | Walk in the city, and dinner at the harbour | [booking necessary](#evening-event) |
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
