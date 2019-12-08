@@ -17,9 +17,9 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
 
 - [Venue](#venue)
 - [Schedule](#schedule)
-  - [Day 1](#day-1---wednesday-6th-march)
-  - [Day 2](#day-2---thursday-7th-march)
-  - [Day 3](#day-3---friday-8th-march)
+  - [Day 1](#day-1---wednesday-9th-october)
+  - [Day 2](#day-2---thursday-10th-october)
+  - [Day 3](#day-3---friday-11th-october)
 - [Run our Docker container](#run-our-docker-container)
 - [Poster session](#poster-session)
 - [Evening event](#evening-event)
