@@ -1,4 +1,4 @@
-# Enrichr
+# Gene enrichment analysis with Enrichr
 
 [Enrichr](https://amp.pharm.mssm.edu/Enrichr)
 ([Chen et al. 2013](https://doi.org/10.1186/1471-2105-14-128),
@@ -22,10 +22,15 @@ out the biological function of each gene. We do this using
 [Enrichr](https://amp.pharm.mssm.edu/Enrichr).
 
 
-## Materials
+## Demo
+
+[<img align="center" src="img/enrichment-analysis-enrichr.png" alt="Gene enrichment analysis with Enrichr" valign="middle">]()
+
+
+## Demo materials
 
 The input gene table that we used in the video can be retrieved from
-[here](https://raw.githubusercontent.com/destairdenbi/trainings/master/video-tutorials/data/expressed_genes.txt).  
+[here](https://raw.githubusercontent.com/destairdenbi/training-material/master/videos/data/expressed_genes.txt).  
 
 The following list comprises the steps that are shown in the video:
 - RNA-Seq analyses can show significant expression levels of hundreds of genes
