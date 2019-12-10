@@ -88,7 +88,7 @@ The following list comprises the steps that are shown in the video:
   time.
 - With this visualization, it is possible to spot genes whose role in the
   pathway was not known beforehand.
-- For instance, *ERBB2* is present in 3 different pathways. We can now search
+- For instance, *ERBB2* is present in 5 different pathways. We can now search
   the literature for the role of ERBB2, e.g. investigate which miRNAs are
   related to its regulation.
 - Further biological discoveries can start from here!
