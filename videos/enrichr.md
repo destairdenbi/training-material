@@ -24,7 +24,7 @@ out the biological function of each gene. We do this using
 
 ## Demo
 
-[<img align="center" src="img/enrichment-analysis-enrichr.png" alt="Gene enrichment analysis with Enrichr" valign="middle">]()
+[<img align="center" src="img/enrichment-analysis-enrichr.png" alt="Gene enrichment analysis with Enrichr" valign="middle">](https://www.youtube.com/watch?v=qTfOXAObNwo)
 
 
 ## Demo materials
