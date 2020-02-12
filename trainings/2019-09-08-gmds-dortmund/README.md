@@ -16,7 +16,7 @@ This workshop is intended for MSc/PhD students, postdocs, and researchers with a
 
 | **Time slot** | **Topic** | **Tutor** |
 | :---: | :--- | :---: |
-| 10:00 - 10:30 | Introduction to RNA-Seq | Markus Wolfien |
+| 10:00 - 10:30 | Introduction to RNA-Seq [(slides)](https://github.com/destairdenbi/training-material/blob/master/trainings/2019-09-08-gmds-dortmund/slides/intro-rna-seq/slides.pdf) | Andrea Bagnacani |
 | 10:30 - 10:45 | Introduction to Galaxy, registration, and tour [(slides)](https://galaxyproject.github.io/training-material/topics/introduction/slides/introduction.html#1) | Andrea Bagnacani |
 | 10:45 - 11:15 | Quality control [(slides)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/slides.html#1) | Andrea Bagnacani |
 | 11:45 - 12:15 | Quality control [(hands-on)](https://galaxyproject.github.io/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html) | Andrea Bagnacani |
