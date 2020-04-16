@@ -51,6 +51,7 @@ students, postdocs, and Life Science scholars.
 | 2019-01-08 | [On-site support training at Universität Rostock](https://github.com/destairdenbi/training-material/tree/master/support/2019-01-08-rostock) |
 | 2019-01-29 | [On-site support training at Universität Rostock](https://github.com/destairdenbi/training-material/tree/master/support/2019-01-29-rostock) |
 | 2019-04-04 | [On-site support training at Leibniz-Institut für Alternsforschung (FLI) Jena](https://github.com/destairdenbi/training-material/tree/master/support/2019-04-04-jena) |
+| 2020-04-08 | [Online support training at University Medical Centre Rostock](https://github.com/destairdenbi/training-material/tree/master/support/2020-04-08-rostock) |
 <p align="right"><a href="#top">&#x25B2; back to top</a></p>
 
 
