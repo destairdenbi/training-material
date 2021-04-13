@@ -1,0 +1,17 @@
+id	diagnosis	pineapple_on_pizza
+sample_a	healthy	yes
+sample_b	healthy	no
+sample_c	healthy	no
+sample_d	healthy	yes
+sample_e	mild	yes
+sample_f	mild	yes
+sample_g	mild	no
+sample_h	mild	no
+sample_i	normal	no
+sample_j	normal	yes
+sample_k	normal	no
+sample_l	normal	yes
+sample_m	severe	yes
+sample_n	severe	no
+sample_o	severe	no
+sample_p	severe	yes

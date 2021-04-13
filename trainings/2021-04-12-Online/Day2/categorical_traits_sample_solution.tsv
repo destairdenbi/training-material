@@ -1,0 +1,17 @@
+id	healthy	mild	normal	severe	pineapple_on_pizza
+sample_a	1	0	0	0		yes
+sample_b	1	0	0	0		no
+sample_c	1	0	0	0		no
+sample_d	1	0	0	0		yes
+sample_e	0	1	0	0		yes
+sample_f	0	1	0	0		yes
+sample_g	0	1	0	0		no
+sample_h	0	1	0	0		no
+sample_i	0	0	1	0		no
+sample_j	0	0	1	0		yes
+sample_k	0	0	1	0		no
+sample_l	0	0	1	0		yes
+sample_m	0	0	0	1		yes
+sample_n	0	0	0	1		no
+sample_o	0	0	0	1		no
+sample_p	0	0	0	1		yes

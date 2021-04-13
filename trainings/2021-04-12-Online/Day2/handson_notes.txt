@@ -1,0 +1,7 @@
+Recreate the steps I showed you in the training. I've provided additional files you can play around with (together with sample solutions), or you can try to find solutions for your own data.
+
+Hints:
+For categorical data, some tools require one hot encoding.
+In the Galaxy tool "Replace Text on Data", you can split cells manually by placing tabs in the replacement text with "\t" (without the quotation marks).
+
+For the bad gene names, I've simulated a common problem where Excel replaces the gene IDs for genes like SEPTIN9 with dates. Try to find a solution to keep the correct number while only replacing the rest!
